@@ -25,7 +25,7 @@ To install the app, follow the steps below:
 
 1. Open Google drive at [Google drive](https://drive.google.com/drive/folders/1u6M8L59bWF_lmf-P9Ckc-K3p9vyZkTzm?usp=sharing)
 2. Download the "Booking" file.
-3. click "Install".
+3. Click "Install".
 
 
 ### Support
