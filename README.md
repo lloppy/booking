@@ -30,7 +30,7 @@ To install the app, follow the steps below:
 3. Click "Install".
 
 
-# Support
+## Support
 
 If you have any questions or problems with the app, feel free to contact [ankudinovapol@gmail.com](mailto:ankudinovapol@gmail.com).
 
