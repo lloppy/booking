@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="profile_input_title">Создайте имя профиля\n</string>
+    <string name="profile_name">Имя профиля</string>
+    <string name="website">Ваш веб-сайт</string>
+    <string name="continue_label">Продолжить</string>
+</resources>

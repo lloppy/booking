@@ -1,0 +1,76 @@
+<!--
+  ~   Copyright 2020 The Android Open Source Project
+  ~
+  ~   Licensed under the Apache License, Version 2.0 (the "License");
+  ~   you may not use this file except in compliance with the License.
+  ~   You may obtain a copy of the License at
+  ~
+  ~        http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~   Unless required by applicable law or agreed to in writing, software
+  ~   distributed under the License is distributed on an "AS IS" BASIS,
+  ~   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~   See the License for the specific language governing permissions and
+  ~   limitations under the License.
+  ~
+  -->
+<resources>
+    <string name="app_name" translatable="false">Jetsurvey</string>
+    <string name="app_tagline" translatable="false">Better surveys with Jetpack Compose</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="confirm_password" translatable="false">Confirm password</string>
+    <string name="sign_in" translatable="false">Sign in</string>
+    <string name="sign_in_guest" translatable="false">Sign up</string>
+    <string name="sign_in_create_account" translatable="false">Sign in or create an account</string>
+    <string name="or">or</string>
+    <string name="forgot_password" translatable="false">Forgot password?</string>
+    <string name="user_continue" translatable="false">Sign in</string>
+    <string name="create_account" translatable="false">Create account</string>
+    <string name="terms_and_conditions" translatable="false">By continuing, you agree to our Terms of Service. We’ll
+        handle your data according to our Privacy Policy.</string>
+    <string name="feature_not_available" translatable="false">Feature not available</string>
+    <string name="dismiss" translatable="false">Dismiss</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="done" translatable="false">Done</string>
+    <string name="back" translatable="false">Back</string>
+    <string name="close" translatable="false">Close</string>
+    <string name="show_password" translatable="false">Show password</string>
+    <string name="hide_password" translatable="false">Hide password</string>
+
+    <!-- survey-->
+    <string name="question_count" translatable="false">\u00A0of %d</string>
+    <string name="select_one" translatable="false">Select one.</string>
+    <string name="select_all" translatable="false">Это поможет коммуницировать с вашими клиентами</string>
+    <string name="select_date" translatable="false">Select date.</string>
+
+    <!-- question 1-->
+    <string name="in_my_free_time">Заполните информацию о себе</string>
+
+    <!-- question 2 -->
+    <string name="pick_superhero">Выберете ваш вид предпринимательской деятельности</string>
+    <string name="spark">Индивидуальный предприниматель (ИП)</string>
+    <string name="lenz">Общество с ограниченной ответственностью (ООО)</string>
+    <string name="bugchaos">АО (Акционерное общество)</string>
+    <string name="frag">Кооператив или другие формы совместного предпринимательства</string>
+
+    <!-- question 3  -->
+    <string name="takeaway">Создайте свой график</string>
+
+    <!-- question 5-->
+    <string name="selfie_skills">Загрузите фото профиля 🤳</string>
+    <string name="add_photo">ADD PHOTO</string>
+    <string name="retake_photo">RETAKE PHOTO</string>
+
+    <string name="survey_result_title">Готово!</string>
+    <string name="survey_result_subtitle">Профиль создан</string>
+    <string name="survey_result_description">Поздравляю, вы создали аккаунт мастера! Делитесь своим QR-кодом с клиентами, упрощая запись и контролируя свое расписание.</string>
+    <string name="strongly_dislike">Strongly\nDislike</string>
+    <string name="strongly_like">Strongly\nLike</string>
+    <string name="neutral">Neutral</string>
+    <string name="profile_input_title">Создайте имя профиля\n</string>
+    <string name="profile_name">Имя профиля</string>
+    <string name="website">Веб-сайт</string>
+    <string name="continue_label">Продолжить</string>
+</resources>
